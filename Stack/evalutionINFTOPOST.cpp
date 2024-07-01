@@ -102,10 +102,7 @@ class stack{
 int main(){
     char ar[30] = "35*62/+4-";
     stack st;
-    cout<<st.evaluation(ar);
-    
-    
-    
+    cout<<st.evaluation(ar); 
     
     return 0;
 }
